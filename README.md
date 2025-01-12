@@ -1,6 +1,3 @@
-# BERT-sentiment-analysis
-A repository for sentiment analysis using pre-trained BERT, featuring fine-tuning, evaluation, and deployment-ready code.
-
 # Sentiment Analysis Using BERT
 
 This repository demonstrates how to perform sentiment analysis using the pre-trained **BERT** model from the Hugging Face Transformers library. The project covers data preprocessing, fine-tuning, evaluation, and deployment of a sentiment analysis model that predicts sentiments such as **Positive**, **Neutral**, and **Negative** for given text inputs.
